@@ -1,13 +1,15 @@
-# Requirement
+Seed checker bot for Pokemon Legends Arceus.
+
+## Requirement
 * discord.py
 * bs4
  
-# Installation
+## Installation
 ```bash
 pip install -r requirements.txt
 ```
  
-# Usage
+## Usage
 * Make a bot
 * Add the bot to a server
 * Paste your token
